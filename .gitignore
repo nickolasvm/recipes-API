@@ -403,3 +403,6 @@ FodyWeavers.xsd
 
 # Compiler analysis files
 *.sarif
+
+# Trybe tests
+recipes-api.Test.Test
